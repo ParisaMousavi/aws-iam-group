@@ -1,5 +1,6 @@
 variable "path" {
-  type = string
+  type    = string
+  default = null
 }
 
 variable "name" {
