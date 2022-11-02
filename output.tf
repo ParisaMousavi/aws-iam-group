@@ -1,4 +1,4 @@
-output "arm" {
+output "arn" {
   value = aws_iam_group.this.arn
 }
 
